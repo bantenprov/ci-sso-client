@@ -1,5 +1,5 @@
 {
-  "description": "SSO Client for application using code ignitor as framework",
+  "description": "SSO Client for application using Ccode Ignitor as framework",
   "name": "bantenprov/ci-sso-client",
   "type": "library",
   "homepage": "https://github.com/bantenprov/ci-sso-client",
