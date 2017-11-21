@@ -1,0 +1,23 @@
+{
+  "description": "SSO Client for application using code ignitor as framework",
+  "name": "bantenprov/ci-sso-client",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/ci-sso-client",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/ci-sso-client,",
+    "issues": "https://github.com/bantenprov/ci-sso-client/issues",
+    "wiki": "https://github.com/bantenprov/ci-sso-client/wiki"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/laravel": "5.4.*"
+  }
+}
