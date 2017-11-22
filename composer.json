@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "support": {
-    "source": "https://github.com/bantenprov/ci-sso-client,",
+    "source": "https://github.com/bantenprov/ci-sso-client",
     "issues": "https://github.com/bantenprov/ci-sso-client/issues",
     "wiki": "https://github.com/bantenprov/ci-sso-client/wiki"
   },
